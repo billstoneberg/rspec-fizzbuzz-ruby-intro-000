@@ -1,5 +1,5 @@
 def fizzbuzz(number)
-  if number / 3 = .int 
+  if number / 3 = .int
     return "Fizz"
   else
   end
