@@ -1,5 +1,5 @@
 def fizzbuzz(number)
-  if number / 3 = .i
+  if number / 3 == .i
     return "Fizz"
   else
   end
